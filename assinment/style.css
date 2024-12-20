@@ -1,0 +1,39 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+	    background-color:rgb(228, 228, 228);
+    }
+
+    .container {
+      max-width: 5f00px;
+    }
+
+    input, button {
+      margin-top: 1rem;
+      padding: 0.5rem;
+      width: 100%;
+    }
+
+    .discounted-price {
+      margin-top: 1rem;
+      font-weight: bold;
+      color: green;
+    }
+
+    .error {
+      color: red;
+	
+	}
+	.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+  }
+  
+  .center {
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
